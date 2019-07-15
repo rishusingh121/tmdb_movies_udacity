@@ -1,0 +1,42 @@
+1. Removing Unused columns
+	id, imdb_id, popularity, budget_adj, revenue_adj, homepage, keywords, overview, production_companies, vote_count and vote_average.
+	
+2. Removing the duplicacy in the rows(if any)
+
+3. Removing 0's from budget and the revenue columns
+
+4. Changing the release date column into standard date format
+
+5. Replacing zero with NAN in runtime column.
+
+6. Changing format of budget and revenue column.
+
+
+
+
+Questions came on mind after managing the data
+
+1. Calculating the profit of the each movie
+
+2. Movies which had most and least profit
+
+3. Movies with largest and lowest budgets
+
+4. Movies with most and least earned revenue
+
+5. Movies with longest and shortest runtime
+
+6. Average runtime of the movies
+
+7. Year of release vs Profitability
+		To find that which year made the highest profit?
+		
+8. Succesful Genres
+
+9. Most Frequent Cast
+
+10. Average Budget of the movies
+
+11. Average Revenue earned by the movies
+
+12. Average duration of the movies
